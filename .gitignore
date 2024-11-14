@@ -1,0 +1,11 @@
+/Reports
+/.idea
+/Tests/Workbench/
+*.html
+*.png
+*.xml
+*.pabotsuitenames
+*.txt
+*.jpg
+!requirements.txt
+__pycache__/
